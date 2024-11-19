@@ -8,7 +8,7 @@ The Weather App is a simple and interactive tool to fetch real-time weather upda
 
 [![Weather App Demo](assets/weather-demo.gif)](https://www.youtube.com/watch?v=1ivanspG59E)
 
-Click the image above to watch a demo of the Weather App!
+Click the GIF above to watch the demo of the Weather App on Youtube or here's the link (https://www.youtube.com/watch?v=1ivanspG59E)
 
 
 ---
