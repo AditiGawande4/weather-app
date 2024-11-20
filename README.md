@@ -36,7 +36,7 @@ Click the GIF above to watch the demo of the Weather App on Youtube or here's th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/AditiGawande4/weather-app.git
 2. Navigate to the project directory:
    ```bash
    cd weather-app
